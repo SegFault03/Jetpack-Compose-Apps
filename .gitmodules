@@ -1,0 +1,9 @@
+[submodule "Superheroes-App"]
+	path = Superheroes-App
+	url = https://github.com/SegFault03/Superheroes-App
+[submodule "Compose-Basics-App"]
+	path = Compose-Basics-App
+	url = https://github.com/SegFault03/Compose-Basics-App
+[submodule "Photo-Gallery-App"]
+	path = Photo-Gallery-App
+	url = https://github.com/SegFault03/Photo-Gallery-App
