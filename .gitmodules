@@ -1,12 +1,18 @@
 [submodule "Superheroes-App"]
 	path = Superheroes-App
 	url = https://github.com/SegFault03/Superheroes-App
+	branch = main
 [submodule "Compose-Basics-App"]
 	path = Compose-Basics-App
 	url = https://github.com/SegFault03/Compose-Basics-App
+	branch = main
 [submodule "Photo-Gallery-App"]
 	path = Photo-Gallery-App
 	url = https://github.com/SegFault03/Photo-Gallery-App
+	branch = main
 [submodule "Tips-App"]
 	path = Tips-App
 	url = https://github.com/SegFault03/Tips-App.git
+	branch = main
+[submodule "Tups-App"]
+	branch = main
