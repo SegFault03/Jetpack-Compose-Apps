@@ -7,3 +7,6 @@
 [submodule "Photo-Gallery-App"]
 	path = Photo-Gallery-App
 	url = https://github.com/SegFault03/Photo-Gallery-App
+[submodule "Tips-App"]
+	path = Tips-App
+	url = https://github.com/SegFault03/Tips-App.git
