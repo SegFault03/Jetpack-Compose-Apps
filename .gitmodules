@@ -14,5 +14,3 @@
 	path = Tips-App
 	url = https://github.com/SegFault03/Tips-App.git
 	branch = main
-[submodule "Tups-App"]
-	branch = main
